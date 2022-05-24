@@ -3,8 +3,8 @@ I am Efthymis (ef-tea-miss)
 
 <div align="center">
   <a href="https://github.com/esarbanis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esarbanis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarbanis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esarbanis&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarbanis&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block" align="center"><br>
      <img align="center" alt="Dan-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg">
